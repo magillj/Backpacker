@@ -1,6 +1,8 @@
 # Backpacker
 PLAN: To make the notoriously tricky Backpacker card game in to an online multiplayer game
 
+Current status: Phase 1 complete. Phase 2 is tricky so I've postponed the project for now.
+
 Phase 1: Get basic game engine working (complete)
 
     1.1: Be able to play country cards
